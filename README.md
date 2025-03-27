@@ -38,22 +38,19 @@ The search engine processes user queries and compares them against subtitle docu
 1. Audio_2_Text.ipynb:
    Converts audio files to text using speech recognition models (e.g., AssemblyAI).
    Useful for transcriptions, podcasts, and accessibility applications.
-2. Chroma_db_Embeddings_V2.ipynb:
+2. Chroma_db_Embeddings.ipynb:
    Implements ChromaDB for vector embedding storage and management.
    Enables efficient similarity search, document indexing, and AI-powered retrieval.
-3. Gradio_Search_Engine_Demo.ipynb:
-   Builds an interactive search engine demo using Gradio.
-   Supports keyword-based, vector-based, and hybrid search methods.
-4. Search_Engine_Extracting_Data.ipynb:
+3. Search_Engine_Extracting_Data.ipynb:
    Handles data extraction, web scraping, and indexing for structured document retrieval.
    Prepares text for efficient tokenization and search indexing.
-5. Shazam_Clone_Search_Engine.ipynb:
+4. Shazam_Clone_Search_Engine.ipynb:
    Develops an audio recognition system similar to Shazam.
    Identifies music, speech, or sound patterns from audio samples.
-6. Subtitles_Chunking.ipynb:
+5. Subtitles.ipynb:
    Splits subtitle files into smaller segments for better indexing and retrieval.
    Supports automatic subtitle generation, video search indexing, and multilingual translation.
-7. Testing_Search_Mechanism.ipynb:
+6. Testing_Search_Mechanism.ipynb:
    Evaluates different search algorithms, including BM25, TF-IDF, and vector-based retrieval.
    Assesses ranking efficiency for improved search results.
 
