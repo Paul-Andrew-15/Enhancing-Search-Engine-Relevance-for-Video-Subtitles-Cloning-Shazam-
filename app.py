@@ -8,7 +8,7 @@ import zipfile
 import os
 
 # Loading the environment variables
-api_key = os.environ.get("ASSEMBLYAI_API_KEY")
+api_key = os.environ.get("API_KEY")
 
 # Initialize AssemblyAI API key from environment variables.
 aai.settings.api_key = api_key
